@@ -24,6 +24,14 @@
 	    <version>${javaee.version}</version>
 	    <scope>provided</scope>
 	</dependency>
+	<!-- backend -->
+	<dependency>
+	    <groupId>com.silverxmary</groupId>
+	    <artifactId>shoopingbackend</artifactId>
+	    <version>0.0.1-SNAPSHOT</version>
+	</dependency>
+	
+	
 	<!-- Spring web -->
 	
 	<dependency>
